@@ -1,7 +1,7 @@
 # Security-Project
-This project focuses on developing a secure web scraping tool to collect customer reviews from an e-commerce site. The data is cleaned, transformed, and analyzed to assess customer satisfaction. BI tools are then used to visualize sentiment trends and key satisfaction indicators.
+This project focuses on developing a secure web scraping tool to collect customer reviews from Decathlon website. The data is extracted, cleaned, and analyzed to assess customer satisfaction. BI tools are then used to visualize sentiment trends and key satisfaction indicators.
 
-# Web Scraping for Assessing Customer Satisfaction on an E-Commerce Site
+# Web Scraping for Assessing Customer Satisfaction
 
 ##  Project Overview
 
@@ -18,7 +18,7 @@ The project includes:
 
 - **Python** (BeautifulSoup, Requests, Pandas)
 - **Power BI** (for data visualization)
-- **Jupyter Notebook / Google Colab** (for data processing)
+- **VS Code** (for data processing)
 - **GitHub** (for version control)
 
 ##  Ethical Considerations
