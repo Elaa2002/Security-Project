@@ -10,7 +10,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import re
 import csv
-import hashlib
 
 product_urls = [
     "https://www.decathlon.tn/p/9713-71642-chaussure-course-a-pied-homme-run-one-bleu.html",
